@@ -8,4 +8,4 @@ Designed to capture directories being entered, directories found and 200 status 
 Example:
   dirb_parser dirb_outputfile.txt
 
-    
+    dirb_parser    
